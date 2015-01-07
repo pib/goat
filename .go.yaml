@@ -1,4 +1,4 @@
 ---
-path: github.com/mediocregopher/goat
+path: github.com/pib/goat
 deps:
   - loc: gopkg.in/yaml.v1

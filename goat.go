@@ -6,8 +6,8 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/mediocregopher/goat/env"
-	"github.com/mediocregopher/goat/exec"
+	"github.com/pib/goat/env"
+	"github.com/pib/goat/exec"
 )
 
 // Optionally set during go build to be output in the help block

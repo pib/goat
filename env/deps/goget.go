@@ -3,8 +3,8 @@ package deps
 import (
 	"fmt"
 
-	. "github.com/mediocregopher/goat/common"
-	"github.com/mediocregopher/goat/exec"
+	. "github.com/pib/goat/common"
+	"github.com/pib/goat/exec"
 )
 
 func GoGet(depdir string, dep *Dependency) error {

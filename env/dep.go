@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"path/filepath"
 
-	. "github.com/mediocregopher/goat/common"
-	"github.com/mediocregopher/goat/env/deps"
+	. "github.com/pib/goat/common"
+	"github.com/pib/goat/env/deps"
 )
 
 type typefunc func(string, *Dependency) error

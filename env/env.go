@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"syscall"
 
-	. "github.com/mediocregopher/goat/common"
+	. "github.com/pib/goat/common"
 	"gopkg.in/yaml.v1"
 )
 

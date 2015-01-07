@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	. "github.com/mediocregopher/goat/common"
-	"github.com/mediocregopher/goat/exec"
+	. "github.com/pib/goat/common"
+	"github.com/pib/goat/exec"
 )
 
 func Hg(depdir string, dep *Dependency) error {

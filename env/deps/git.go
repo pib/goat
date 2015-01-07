@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	. "github.com/mediocregopher/goat/common"
-	"github.com/mediocregopher/goat/exec"
+	. "github.com/pib/goat/common"
+	"github.com/pib/goat/exec"
 )
 
 func Git(depdir string, dep *Dependency) error {
